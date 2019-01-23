@@ -1,2 +1,3 @@
-# hallow-world
-For test environment
+# maven-project
+
+Simple Maven Project
